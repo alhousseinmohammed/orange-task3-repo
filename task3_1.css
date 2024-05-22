@@ -1,0 +1,23 @@
+span {
+    color: blue;
+}
+
+#please {
+    color: black;
+}
+
+#please,#click {
+    font-weight: bold;
+}
+
+.red {
+    color: red;
+}
+
+#link {
+    background-color: rgb(241, 241, 30);
+}
+
+.orange {
+    color: orange;
+}

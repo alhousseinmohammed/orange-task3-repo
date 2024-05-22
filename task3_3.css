@@ -1,0 +1,18 @@
+.imager {
+  background-color: green;
+}
+
+.dog {
+  display: relative;
+  float: left;
+  margin: 5px;
+}
+
+.img-follower {
+  float: left;
+  display: inline;
+}
+
+.other {
+  float: left;
+}
